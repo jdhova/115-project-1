@@ -3,13 +3,15 @@
 ## This assignment will make you understand better the workflow of git and GitHub.
 
 ```
-this assignment, you will need to create a repo on GitHub, make branches, merge main into branches and then pull it to the main branch.
+this assignment, you will need to create a repo on GitHub,
+make branches, merge main into branches and then pull it to the main branch.
 
-You can make any repo, and it could be one of the other classes assignment you work on, or it could be just a meme repo. What is essential is the commits. I want to see a lot of commits, at least ten, including merge commits and regular commits.
+You can make any repo, and it could be one of the other classes
+assignment you work on, or it could be just a meme repo. What is essential is the commits. I want to see a lot of commits, at least ten, including merge commits and regular commits.
 
 ```
 
-### how to finish the assignment
+### How to finish the assignment
 
 ```
 1. Create a repo on GitHub, make it public
