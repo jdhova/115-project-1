@@ -41,3 +41,5 @@ no content in the repo
 ### Status : in progress
 
 ### Solution
+
+![](image/solution.png)
