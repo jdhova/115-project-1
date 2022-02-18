@@ -42,4 +42,9 @@ no content in the repo
 
 ### Solution
 
+<<<<<<< HEAD
 ![](image/solution.png)
+=======
+![](image/solution-full.png)
+
+> > > > > > > adding solution to Readme.md
